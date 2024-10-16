@@ -15,12 +15,12 @@ h1 {
 */
 }
 p {
-    text-align: center; /* Center the paragraph for aesthetic. */
-    font-size: 20px; /* Size matters, especially for the message. */
+    text-align: center; 
+    font-size: 20px; 
 }
 
 .hidden-flag {
-    display: none; /* The flag is in disguise... */
+    display: none; 
 }
 
 
